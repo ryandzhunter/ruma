@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_22b545ca4145576390edf10f30ac88e6ddb995bd.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_193644bbd02382597f4685682e3414425879207b.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_db0154413227f51ec30d54d73fb2a84c4c9c3cea.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_0f3c379cd13ffe5e7d84389238fd8857f3975003.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_1db3293ca6b6edcfc44ac82080daba903fc1ced3.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_95b05c896550432365784323773bab6171328d02.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_dc842e78af876f86022cd124e5c0a16f2ceafa3d.jar" />
+    </item>
+    <item
+        jar="/Users/ryandzhunter/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ryandzhunter/Documents/RUMA/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_35d695a8240bef1d24e9792361f0952978fba525.jar" />
+    </item>
+
+</items>
